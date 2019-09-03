@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<students>
+	<student>
+		<usn> USN : 4VV17CS001 </usn>
+		<name> NAME : ABC </name>
+		<clg> COLLEGE : VVCE </clg>
+		<branch> BRANCH : CSE </branch>
+		<year> YEAR OF JOINING : 2020 </year>
+		<mail> EMAIL ID : abc@gamail.com </mail>
+	</student>
+	<student>
+		<usn> USN : 4VV17EC002 </usn>
+		<name> NAME : XYZ </name>
+		<clg> COLLEGE : VVCE </clg>
+		<branch> BRANCH : ECE </branch>
+		<year> YEAR OF JOINING : 2020 </year>
+		<mail> EMAIL ID : xyz@gamail.com </mail>
+	</student>
+	<student>
+		<usn> USN : 4VV17IS001 </usn>
+		<name> NAME : PQR </name>
+		<clg> COLLEGE : VVCE </clg>
+		<branch> BRANCH : ISE </branch>
+		<year> YEAR OF JOINING : 2020 </year>
+		<mail> EMAIL ID : pqr@gamail.com </mail>
+	</student>
+</students>
+
+

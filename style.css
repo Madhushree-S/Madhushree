@@ -1,0 +1,33 @@
+students
+{
+	max-width:30%;margin:auto;background-color:pink;
+}
+
+student
+{
+	display:block; margin:top;color:Navy;
+}
+usn
+{
+	dispay:block;margin-left:10px; font-size:20px;color:red;
+}
+name
+{
+	display:block;margin-left:20px;font-size:20px;color:blue;
+}
+clg
+{
+	display:block; margin-left:20px;font-size:20px;color:green;
+}
+branch
+{
+	display:block;margin-left:20px;font-size:20px;color:purple;
+}
+year
+{
+	display:block;margin-left:20px;font-size:20px;color:black;
+}
+mail
+{
+	display:block;margin-left:20px;font-size:20px;color:brown;
+}
